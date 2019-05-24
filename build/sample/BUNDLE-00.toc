@@ -1,0 +1,3 @@
+([('sample',
+   '/Users/suzukihironobu/workspace/python_example/dist/sample',
+   'EXECUTABLE')],)
